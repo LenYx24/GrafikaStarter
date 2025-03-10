@@ -1,0 +1,5 @@
+build/
+cmake-build-debug/
+Debug/
+linux_build/
+.vs/
